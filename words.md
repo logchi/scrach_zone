@@ -61,3 +61,19 @@ handout n. 散发材料（免费发给的新闻通报）；上课老师发的印
 commitment n. 承诺，保证；委托；承担义务；献身
 
 pertain vi. 属于；关于；适合
+
+approve vt. 批准；赞成；为…提供证据; vi. 批准；赞成；满意
+
+unorthodox adj. 非正统的；异端的；异教的
+
+peg n. 钉；桩；借口；琴栓 vt. 限制；钉木钉 pegs pegged pegging pegged
+
+vulnerability n. 易损性；弱点
+
+precedent n. 先例；前例 adj. 在前的；在先的
+
+portable adj. 手提的，便携式的；轻便的
+
+miscellaneous adj. 混杂的，各种各样的；多方面的，多才多艺的
+
+probe n. 探针；调查 vi. 调查；探测 vt. 探查；用探针探测
