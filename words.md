@@ -61,3 +61,5 @@ handout n. 散发材料（免费发给的新闻通报）；上课老师发的印
 commitment n. 承诺，保证；委托；承担义务；献身
 
 pertain vi. 属于；关于；适合
+
+burrito n. 玉米煎饼
