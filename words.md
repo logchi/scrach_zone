@@ -80,3 +80,23 @@ miscellaneous adj. 混杂的，各种各样的；多方面的，多才多艺的
 
 probe n. 探针；调查 vi. 调查；探测 vt. 探查；用探针探测
 
+sanitize vt. 使…无害；给…消毒；对…采取卫生措施 sanitizes sanitized sanitizing sanitized
+
+manifest vt. 证明，表明；显示 vi. 显示，出现 n. 载货单，货单；旅客名单 adj. 显然的，明显的；明白的
+manifest destiny 天命，宿命
+
+graft vi. 移植；嫁接；贪污 vt. 移植；嫁接；贪污 n. 移植；嫁接；渎职 n. （非正式）脚踏实地地埋头苦干
+
+with that out of the way 把上述事情放在一边
+
+grant vt. 授予；允许；承认 vi. 同意 n. 拨款；[法] 授予物
+
+launch vt. 发射（导弹、火箭等）；发起，发动；使…下水 vi. 开始；下水；起飞 n. 发射；发行，投放市场；下水；汽艇
+
+bypass vt. 绕开；忽视；设旁路；迂回 n. 旁路；[公路] 支路 bypasses bypassed bypassing
+
+teardown 拆毁；拆除
+
+punchy adj. 强力的；头昏眼花的
+
+authorization n. 授权，认可；批准，委任
