@@ -1,0 +1,1 @@
+# 0, None, and empty sequences are False, otherwise are True
